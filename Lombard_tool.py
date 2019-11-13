@@ -99,4 +99,4 @@ class LombardTool():
         self.noise_value = 0.1 * int(slider_value) #10 ** (int(slider_value) / 20)
 
 
-foo = LombardTool()
+win = LombardTool()
