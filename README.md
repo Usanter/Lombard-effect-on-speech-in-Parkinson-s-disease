@@ -7,11 +7,18 @@ This tool is used to carry out the study on the effect of Lombard on Parkinson's
 These tools require python (version 3+) to work.
 
 Install the dependencies and launch the tools.
-
+For mac OS user:
+1 - Install XCode in the app store
+2 - Run the following command 
 ```sh
 $ git clone https://github.com/Usanter/Lombard-effect-on-speech-in-Parkinson-s-disease.git
-$ git pip install -r requirements.txt
-$ python Lombard_effect_tool.py
+```
+or dowload the zip and extract it
+
+3 - Go where you download it and open a terminal here
+```sh
+$ pip3 install -r requirements.txt
+$ python3 Lombard_effect_tool.py
 ```
 
 The software can be used with 3 buttons:
