@@ -75,7 +75,7 @@ class LombardTool():
             self.volume = 0.5
             self.silence_frame = 0
         else:
-            self.volume = 0.001
+            self.volume = 0.1
             self.silence_frame += 1
         if self.silence_frame < 10:
             self.volume = 1
