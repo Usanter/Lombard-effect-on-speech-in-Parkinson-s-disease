@@ -22,10 +22,12 @@ $ pip3 install -r requirements.txt
 $ python3 Lombard_effect_tool.py
 ```
 
-### For windows user:
+#### For windows user:
 ```sh
 Click on the Lombard_tool.exe
 ```
+
+### How does it work
 
 The software can be used with 3 buttons:
 - The first slider corresponds to the vocal activity detection (based on the energy of the signal),  higher the value is easier is the threshold
