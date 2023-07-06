@@ -14,4 +14,4 @@ guizero == 1.1.0
 numpy == 1.22.0
 
 # Lombard_tool.py: 9
-scipy == 1.2.1
+scipy == 1.10.0
